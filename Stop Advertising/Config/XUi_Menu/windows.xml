@@ -1,0 +1,5 @@
+<configs>
+	<remove xpath="//window[@name='newsScreen']/rect[@name='featuredNews']" />
+	<remove xpath="//window[@name='newsScreen']/rect[@name='gameNews']" />
+	<remove xpath="//window[@name='newsScreen']/rect[@name='guides']" />
+</configs>

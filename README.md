@@ -1,2 +1,5 @@
-# 7d-stop-advertising
- Removes the advertising feeds from the splash screen / "news" panel
+# Stop Advertising
+ We own the game and The Pimps have the nerve to advertise merch and other products to us? Not on my watch!
+
+ # How it works
+ Uses xpath to remove the 'featuredNews', 'gameNews', and (presently commented out) 'guides' elements from the news menu, reducing it to a splash screen before the main menu.

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="StopAdvertising" />
+	<DisplayName value="Stop Advertising" />
+	<Description value="Disables the news screen that is mainly used to advertise other products to us" />
+	<Author value="Emily" />
+	<Version value="1" />
+	<Website value="" />
+	<SkipWithAntiCheat value="false" />
+</xml>
